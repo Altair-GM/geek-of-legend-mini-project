@@ -5,12 +5,12 @@ export class Archer {
         this.pv = pv
         this.pa = pa
         this.fleches = fleches
-        this.defense(
+        // this.defense(
 
-        )
-        this.attaque(
+        // )
+        // this.attaque(
 
-        )
+        // )
     }
 
 }
@@ -22,12 +22,12 @@ export class Guerrier {
         this.pa = pa
         this.supra=supra
 
-        this.defense(
+        // this.defense(
 
-        )
-        this.attaque(
+        // )
+        // this.attaque(
 
-        )
+        // )
     }
 
 }
@@ -39,11 +39,11 @@ export class Mage {
         this.pa = pa
         this.mana=mana
 
-        this.defense(
+        // this.defense(
 
-        )
-        this.attaque(
+        // )
+        // this.attaque(
 
-        )
+        // )
     }
 }
